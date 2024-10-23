@@ -73,4 +73,10 @@
 ### [대용량 트래픽에서 동시성 문제를 고려한 선착순 쿠폰 발급 처리](https://fir-turkey-016.notion.site/128e2b2fe1ba81238bedfde1725b1323?pvs=4)
 > Redis(동시성) + Kafka(비동기 대용량 트래픽 처리)를 활용하여 문제 해결
 ### [Kafka와 Redis Sort set을 이용한 대기열 구현](https://fir-turkey-016.notion.site/Kafka-Redis-Sort-set-128e2b2fe1ba8195bb6bd5296b8c1a54?pvs=4)
-> kafka(트래픽 분산처리) + Redis(sorted set) 을 통한 대기열 순서 관리 맟 실시간 순위 조회
+> kafka(트래픽 분산처리) + Redis(sorted set) 을 통한 대기열 순서 관리 및 실시간 순위 조회
+### [엘라스틱 스택 활용 로그 추적/관리](https://fir-turkey-016.notion.site/128e2b2fe1ba818898a4e6a3e5fba80c?pvs=4)
+> 리소스 최적화를 위해 Filbeat를 통한 로그 관리
+### [Eureka 사용 시 Eureka Client 등록 방식](https://fir-turkey-016.notion.site/Eureka-Eureka-Client-128e2b2fe1ba80e49345d46c4f152725?pvs=4)
+> Ip 기반 통신을 사용한 Eureka Client 관리
+### [Transactional Outbox Pattern을 이용한 결제 완료 메시지 발행](https://fir-turkey-016.notion.site/Transactional-Outbox-Pattern-128e2b2fe1ba801fbe99c4e0577f1873?pvs=4)
+> Transactional Outbox 패턴을 적용해 결제 테이블 갱신 트랜잭션 완료와 메시지 발행 간의 데이터 일관성 문제 해결
