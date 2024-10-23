@@ -1,6 +1,9 @@
 # QueueTicket
 ![image](https://github.com/user-attachments/assets/3902588e-8875-47c1-a1aa-b1e126276ce5)
 
+## Demo
+![2024-10-237 35 07-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/723b5e51-2675-4e82-887c-662e2eec0d31)
+
 
 ### DNS(gateway)
 * http://qticket-gateway-alb-855210072.ap-northeast-2.elb.amazonaws.com:19091
