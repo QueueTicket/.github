@@ -101,3 +101,6 @@
 > 비동기 요청 시 HttpServletRequest 객체 활용 불가 문제를 ThreadLocal과 AOP를 통해 효과적으로 해결
 ### [AWS Fargate에서 Eureka 사용 시 Eureka Client의 Ip 추적 실패 문제](https://fir-turkey-016.notion.site/AWS-Fargate-Eureka-Eureka-client-ip-128e2b2fe1ba80e2b8aded6d1084df67?pvs=4)
 > Eureka Client의 등록 IP를 확인 후 직접 Container의 IP를 Eureka에 등록하여 Eureka가 정상적으로 Client의 IP를 호출할 수 있도록 구현
+
+## ERD
+![image](https://github.com/user-attachments/assets/02c06a8b-cbc8-4d03-85f0-12fe3334306c)
