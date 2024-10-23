@@ -40,7 +40,7 @@
 
 |                 박기도                   |                 박상훈                   |                전민기                 |                 최용석                 | 
 | :------------------------------------: | :------------------------------------: | :----------------------------------: | :----------------------------------: | 
-| [@shoon95](https://github.com/shoon95) | [@shoon95](https://github.com/shoon95)  | [@InHees](https://github.com/InHeeS) | [@InHees](https://github.com/InHeeS) |
+| [@shoon95](https://github.com/shoon95) | [@shoon95](https://github.com/shoon95)  | [@InHees](https://github.com/InHeeS) | [@InHees](https://github.com/choi-ys) |
 |                   BE                   |                   BE                   |                  BE                  |                   BE                 |
 |              공연 - 공연장                |               쿠폰 - CICD               |            인증 - 인가 - 대기열          |                주문 - 결제             |
 
@@ -75,7 +75,7 @@
 - 엘라스틱 스택을 이용한 로그 관리
 
 > CICD + 모니터링
-- ithub Action을 활용한 CICD 구축
+- Github Action을 활용한 CICD 구축
 - Docker 를 사용하여 Container 이미지 관리
 - AWS Fargate 를 통하여 스프링 서비스 배포
 - AWS EC2 를 통하여 Util 서버 배포(kafka, redis 등)
