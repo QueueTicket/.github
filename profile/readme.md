@@ -80,3 +80,13 @@
 > Ip 기반 통신을 사용한 Eureka Client 관리
 ### [Transactional Outbox Pattern을 이용한 결제 완료 메시지 발행](https://fir-turkey-016.notion.site/Transactional-Outbox-Pattern-128e2b2fe1ba801fbe99c4e0577f1873?pvs=4)
 > Transactional Outbox 패턴을 적용해 결제 테이블 갱신 트랜잭션 완료와 메시지 발행 간의 데이터 일관성 문제 해결
+
+## 🚨 트러블슈팅
+### [대기열 시스템 부하 테스트](https://fir-turkey-016.notion.site/128e2b2fe1ba80bb8e0ae7fd343e213f?pvs=4)
+> 대기열 시스템을 적용하기 전과 후 비교시 응답 시간 기준 5배 성능 향상
+### [벌크 쿼리](https://fir-turkey-016.notion.site/128e2b2fe1ba80a99b71fa6575a8241d?pvs=4)
+> N+1의 쿼리가 발생하는 상황에서 쿼리 성능 개선을 위해 영속성 컨텍스트를 거치지 않는 벌크 쿼리 도입
+### [비동기 요청 시 AuditorAware 문제](https://fir-turkey-016.notion.site/AuditorAware-128e2b2fe1ba807cbb17d61724ce592c?pvs=4)
+> 비동기 요청 시 HttpServletRequest 객체 활용 불가 문제를 ThreadLocal과 AOP를 통해 효과적으로 해결
+### [AWS Fargate에서 Eureka 사용 시 Eureka Client의 Ip 추적 실패 문제](https://fir-turkey-016.notion.site/AWS-Fargate-Eureka-Eureka-client-ip-128e2b2fe1ba80e2b8aded6d1084df67?pvs=4)
+> Eureka Client의 등록 IP를 확인 후 직접 Container의 IP를 Eureka에 등록하여 Eureka가 정상적으로 Client의 IP를 호출할 수 있도록 구현
