@@ -46,9 +46,11 @@
 
 > [담당 역할 자세히 보러 가기](https://fir-turkey-016.notion.site/128e2b2fe1ba80628b5bddb0b7680ea4?pvs=4)
 
+<br> <br/>
 ## 🗺️ 인프라 설계도
 ![image](https://github.com/user-attachments/assets/ee10be02-f70c-4548-aec3-d1204d443b65)
 
+<br> <br/>
 ## 🪄 주요 기능
 > 쿠폰 발급 및 적용
 - Redis를 통해 Lock 없이 동시성 제어
@@ -81,6 +83,7 @@
 - AWS EC2 를 통하여 Util 서버 배포(kafka, redis 등)
 - AWS Lambda + AWS SNS + Slack API 연동하여 모니터링 시스템 구축
 
+<br> <br/>
 ## 💬 기술적 의사결정
 ### [대용량 트래픽에서 동시성 문제를 고려한 선착순 쿠폰 발급 처리](https://fir-turkey-016.notion.site/128e2b2fe1ba81238bedfde1725b1323?pvs=4)
 > Redis(동시성) + Kafka(비동기 대용량 트래픽 처리)를 활용하여 문제 해결
@@ -93,6 +96,7 @@
 ### [Transactional Outbox Pattern을 이용한 결제 완료 메시지 발행](https://fir-turkey-016.notion.site/Transactional-Outbox-Pattern-128e2b2fe1ba801fbe99c4e0577f1873?pvs=4)
 > Transactional Outbox 패턴을 적용해 결제 테이블 갱신 트랜잭션 완료와 메시지 발행 간의 데이터 일관성 문제 해결
 
+<br> <br/>
 ## 🚨 트러블슈팅
 ### [대기열 시스템 부하 테스트](https://fir-turkey-016.notion.site/128e2b2fe1ba80bb8e0ae7fd343e213f?pvs=4)
 > 대기열 시스템을 적용하기 전과 후 비교시 응답 시간 기준 5배 성능 향상
@@ -103,5 +107,6 @@
 ### [AWS Fargate에서 Eureka 사용 시 Eureka Client의 Ip 추적 실패 문제](https://fir-turkey-016.notion.site/AWS-Fargate-Eureka-Eureka-client-ip-128e2b2fe1ba80e2b8aded6d1084df67?pvs=4)
 > Eureka Client의 등록 IP를 확인 후 직접 Container의 IP를 Eureka에 등록하여 Eureka가 정상적으로 Client의 IP를 호출할 수 있도록 구현
 
+<br> <br/>
 ## ERD
 ![image](https://github.com/user-attachments/assets/02c06a8b-cbc8-4d03-85f0-12fe3334306c)
