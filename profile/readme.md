@@ -42,8 +42,9 @@
 | :------------------------------------: | :------------------------------------: | :----------------------------------: | :----------------------------------: | 
 | [@shoon95](https://github.com/shoon95) | [@shoon95](https://github.com/shoon95)  | [@InHees](https://github.com/InHeeS) | [@InHees](https://github.com/InHeeS) |
 |                   BE                   |                   BE                   |                  BE                  |                   BE                 |
+|              공연 - 공연장                |               쿠폰 - CICD               |            인증 - 인가 - 대기열          |                주문 - 결제             |
 
-
+> [담당 역할 자세히 보러 가기](https://fir-turkey-016.notion.site/128e2b2fe1ba80628b5bddb0b7680ea4?pvs=4)
 
 ## 🗺️ 인프라 설계도
 ![image](https://github.com/user-attachments/assets/ee10be02-f70c-4548-aec3-d1204d443b65)
