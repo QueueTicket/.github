@@ -45,7 +45,7 @@
 
 |                 박기도                   |                 박상훈                   |                전민기                 |                 최용석                 | 
 | :------------------------------------: | :------------------------------------: | :----------------------------------: | :----------------------------------: | 
-| [@shoon95](https://github.com/shoon95) | [@shoon95](https://github.com/shoon95)  | [@awesominki](https://github.com/awesominki) | [@InHees](https://github.com/choi-ys) |
+| [@gido](https://github.com/gidopa) | [@shoon95](https://github.com/shoon95)  | [@awesominki](https://github.com/awesominki) | [@InHees](https://github.com/choi-ys) |
 |                   BE                   |                   BE                   |                  BE                  |                   BE                 |
 |              공연 - 공연장                |               쿠폰 - CICD               |            인증 - 인가 - 대기열          |                주문 - 결제             |
 
