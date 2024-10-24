@@ -2,9 +2,8 @@
 ![image](https://github.com/user-attachments/assets/3902588e-8875-47c1-a1aa-b1e126276ce5)
 
 ## Demo
-![2024-10-237 35 07-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/723b5e51-2675-4e82-887c-662e2eec0d31)
+![2024-10-242 32 03-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/2e1d0cf3-d6b9-4bad-8976-291f6b421083)
 
-데모 화면을 위해 8초에 6명씩 대기열 처리하도록 스케줄링 하였습니다.
 
 
 ### DNS(gateway)
